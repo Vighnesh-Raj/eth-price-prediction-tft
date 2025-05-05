@@ -26,9 +26,9 @@ This project applies a Temporal Fusion Transformer (TFT) to predict short-term p
 
 ## 📂 Files
 
-- `notebook/ETH_TFT_Model_VR.ipynb` – Full model development notebook
-- `results/ETH_TFT_Model_VR.html` – Static HTML version
-- `results/Final_Presentation_VR.pdf` – Summary presentation
+- `ETH_TFT_Model_VR.ipynb` – Full model development notebook
+- `ETH_TFT_Model_VR.html` – Static HTML version
+- `Final_Presentation_VR.pdf` – Summary presentation
 
 ## ⚙️ Setup
 
